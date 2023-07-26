@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/AmjadAmma/project-3/static/css/main.ca935583.css",
+    "main.js": "/AmjadAmma/project-3/static/js/main.473add42.js",
+    "static/media/laptops.png": "/AmjadAmma/project-3/static/media/laptops.a5a6ab642345b5d38784.png",
+    "static/media/slider4.png": "/AmjadAmma/project-3/static/media/slider4.8049dedb7c458a0534a5.png",
+    "static/media/prod4.png": "/AmjadAmma/project-3/static/media/prod4.60c973db7361e54bb831.png",
+    "static/media/slider1.png": "/AmjadAmma/project-3/static/media/slider1.2d6dc5a9c0fd289461ee.png",
+    "static/media/prod3.png": "/AmjadAmma/project-3/static/media/prod3.c073f706ba444448c519.png",
+    "static/media/item.png": "/AmjadAmma/project-3/static/media/item.79eafdfba70f40ed66c5.png",
+    "static/media/clothe.png": "/AmjadAmma/project-3/static/media/clothe.63497de16012693f71f1.png",
+    "static/media/cat2.png": "/AmjadAmma/project-3/static/media/cat2.cb9155160d37d36502be.png",
+    "static/media/labtop.png": "/AmjadAmma/project-3/static/media/labtop.72427ac57eccb337dd2b.png",
+    "static/media/pic.png": "/AmjadAmma/project-3/static/media/pic.c1f340e9b514ac94aa83.png",
+    "static/media/sale.png": "/AmjadAmma/project-3/static/media/sale.fd3bd0e8262078e4961a.png",
+    "static/media/brand3.png": "/AmjadAmma/project-3/static/media/brand3.1a0049b1f1a261d0e6d1.png",
+    "index.html": "/AmjadAmma/project-3/index.html",
+    "main.ca935583.css.map": "/AmjadAmma/project-3/static/css/main.ca935583.css.map",
+    "main.473add42.js.map": "/AmjadAmma/project-3/static/js/main.473add42.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca935583.css",
+    "static/js/main.473add42.js"
+  ]
+}
